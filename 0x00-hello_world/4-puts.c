@@ -2,10 +2,10 @@
 
 /**
 *main - prints phrase "Programming is like building a multilingual puzzle
-*return : 0 if exited properly, no zero otherwise
+*return: 0 if exited properly, no zero otherwise
 */
-int main(void)
+void main(void)
 {
- puts("\"Programming is like building a multilingual puzzle");
- return 0;
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
