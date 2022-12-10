@@ -1,4 +1,4 @@
-#inculde <stdio.h>
+#include <stdio.h>
 
 /**
  *main - prints alphabets with lowercases, and then in uppercases
